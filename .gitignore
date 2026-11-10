@@ -1,0 +1,12 @@
+# Compiled executables
+bms.exe
+test_bms.exe
+*.exe
+*.o
+
+# Generated log files
+bms_log.txt
+*.log
+
+# Local VS Code settings
+.vscode/
